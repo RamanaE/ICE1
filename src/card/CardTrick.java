@@ -54,6 +54,9 @@ public class CardTrick {
         }
         //Then report the result here
         // add one luckcard hard code 2,clubs
+        Card Lucky = new Card;
+        Lucky.setValue(7);
+        Lucky.setSuit(1);
     }
     
 }
